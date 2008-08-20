@@ -1,0 +1,23 @@
+user1_age:
+  id: 1
+  panelist_id: 1
+  panel_attribute_id: 1
+  value: 30
+
+user1_gender:
+  id: 2
+  panelist_id: 1
+  panel_attribute_id: 2
+  value: M
+
+user2_age:
+  id: 3
+  panelist_id: 2
+  panel_attribute_id: 1
+  value: 31
+
+user2_gender:
+  id: 4
+  panelist_id: 2
+  panel_attribute_id: 2
+  value: F

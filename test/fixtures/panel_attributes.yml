@@ -1,0 +1,7 @@
+attr_age:
+  id: 1
+  name: age
+  
+attr_gender:
+  id: 2
+  name: gender
